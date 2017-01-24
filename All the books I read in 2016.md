@@ -12,5 +12,5 @@ I read about twenty books in 2016. There's probably a few I left out. It's about
 
 What are you reading?
 
-See a typo? Send me a [pull-request]()!
+See a typo? Send me a [pull-request](https://github.com/micahwalter/blogs-14921-all-the-books)!
 
